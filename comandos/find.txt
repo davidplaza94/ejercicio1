@@ -1,4 +1,3 @@
 Find es un comando que goza de una gran utilidad a pesar de ser algo desconocido. 
 Es un comando que nos facilitará la tarea de encontrar algún archivo cuando tenemos muchos archivos y es realmente complicado poderlo encontrar. Además de archivos también podrás buscar o eliminar directorios completos. Puedes hacer búsquedas con filtros concretos como el tamaño, nombre, extensión, fecha...
-Una de las grandes ventajas al usar este comando, 
-es que podemos filtrar los resultados por diversas variables
+Merge con conflictos
